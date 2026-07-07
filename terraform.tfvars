@@ -1,0 +1,5 @@
+subscription_id    = "fdba40a3-45ab-4ba5-9b28-51581207e580"
+resource_group_name = "rgdnitest1"
+location            = "centralindia"
+vmname             = "dnivm1"
+admin_username      = "moartadmin"
